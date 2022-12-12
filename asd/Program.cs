@@ -21,7 +21,7 @@ namespace ProductRegistration
                 {
                     Console.Write("Id do produto: ");
                     var id = Convert.ToInt16(Console.ReadLine());
-
+                    
                     Console.Write("Nome: ");
                     var name = Console.ReadLine();
 
